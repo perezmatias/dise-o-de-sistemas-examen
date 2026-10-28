@@ -1,0 +1,5 @@
+# Este proyecto no requiere dependencias externas
+# Solo utiliza la biblioteca estándar de Python 3.6+
+#
+# Para ejecutar el proyecto:
+# python main.py
